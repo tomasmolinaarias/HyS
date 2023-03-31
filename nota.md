@@ -1,0 +1,432 @@
+# capitulo 1
+
+## componentes
+
+- Gabinete parte delantera
+  - entrada de microfono y audifono
+  - lector de cd "algunos equipos antiguos"
+- Gabinete parte trasera
+  - enchufe de fuente de poder
+  - entrada red/hdmi/ display
+  - conectores de audio/microfono/usb
+- Gabinete Interior
+  - ventiladores y disipadores de calor
+  - cpu
+  - placa madre
+  - memoria ram
+  - disco duro
+  - tarjeta gráfica
+  - enchufe de fuente de poder
+  - lector de cd "algunos equipos antiguos"
+
+---
+
+## Seguridad Eléctrica
+
+```
+Siempre hay que estar atento a la Electricida ya que todos los dispositivo lleva corriente.
+
+Los dispositivos eléctricos tienen determinados requisitos de potencia.
+Por ejemplo: los adaptadores de CA se fabrican para equipos portátiles específicos.
+
+Intercambiar los cables de CA con los de otro tipo de equipo portátil o dispositivo puede provocar daños en el adaptador de CA y el equipo portátil.
+----------------------------------------------------------------------------------
+El equipo eléctrico debe estar conectado a tierra.
+Si una falla provoca que las piezas metálicas del equipo se conviertan en una corriente eléctrica, la tierra proporcionará una ruta de menor resistencia para que la corriente fluya de manera inocua.
+
+Generalmente, los productos informáticos se conectan a tierra mediante el enchufe de alimentación.
+
+Los equipos grandes, como los racks de servidores que alojan dispositivos de red, también deben estar conectados a tierra.
+```
+
+---
+
+## ESD
+
+```
+Las descargas electrostáticas (ESD) pueden ocurrir cuando hay una acumulación de una carga eléctrica (electricidad estática) existente en una superficie que entra en contacto con otra cargada de diferente manera.
+
+La ESD puede provocar daños a los equipos de computación si no se descarga correctamente.
+
+Para que podamos sentir debemos por lo minimo 3000v de Electricidad Estática, si la descarga provoca dolor o hace ruido, es probable que sea superior a los 10.000V.
+para que el ESD haga daño a los componente de pc debe ser con menos 30v.
+
+Para evitar eso debemos conectarnos a tierra "tenemos que tocar un objeto que este conectada a la tierra "
+```
+
+### La ESD puede provocar daños permanentes en los componentes eléctricos.
+
+### Siga estas recomendaciones para evitar daños por ESD:
+
+- Conserve todos los componentes en bolsas antiestática hasta que esté listo para instalarlos.
+- Utilice alfombrillas conectadas a tierra en los bancos de trabajo.
+- Utilice alfombrillas conectadas a tierra en las áreas de trabajo.
+- Utilice pulseras antiestática cuando trabaje en el interior de una PC.
+
+---
+
+## Gabinetes
+
+```
+Los gabinetes se conoce como Chasis, Torre, Cubierta o Caja.
+
+Normal mente el gabinete esta hecho de plasticon, aluminio o acero y proporcionan la estructura para el soporte, la proteccion y la refrigeracion de los componente internos.
+
+```
+
+tenemos diversas formas de gabinete:
+
+- Gabinete Horizontal
+  - este gabinete esta orientado horizontalmente sobre el escritorio.
+  - amenudo el monitor siempre se encuentra encima y fue popular en los primeros sistema informatico.
+  - este factor de forma se utiliza a menudo como pc de centro de entretenimiento (HTPC).
+- Torre Tamaño Completo
+  - Este gabinete se coloca vertical.
+  - Proporciona mas espacio de expancion se pueden colocar mas componente.adicionales como disco duro y tarjetas o adaptador.
+- Torre compacta
+  - Es una version pequeña del completo se ve mas en el mundo de las corporaciones
+  - Se le conoce como mini torre o modelo factor pequeño
+  - Proporciona un espacio limitado para las expaciones
+- Todo en uno
+  - Es un pc en todo tiene:
+    - cpu
+    - placa madre
+    - ram
+    - memoria (disco duro o ssd)
+    - Monitor
+    - Microfono
+    - Altavozes
+  - Son comos los IMAC o IdeaCentre 3i AIO
+  - Contiene el minimo de espacio para las extenciones
+  - La fuente de poder normalmente es externa a la computadora.
+
+---
+
+## Fuentes de Alimentacion
+
+```
+La electricidad  proviene de los tomacorriente (Enchufe).
+Es la corriente alterna  "CA".
+Sin embargo todos los componentes internos de un equipo requieren alimentación de corriente continua (CC), Para obtener alimentación de CC, los equipos utilizan una fuente de alimentación.
+A fin de convertir la alimentación de CA a un voltaje inferior de alimentación de CC.
+```
+
+A continuación, se describen los distintos factores de forma de las fuentes de alimentación de los equipos de escritorio que han evolucionado con el tiempo:
+
+- Tecnología avanzada (AT): es la fuente de alimentación original para los sistemas de computación antiguos, actualmente considerada obsoleta.
+- AT extendida (ATX): esta es la versión actualizada de AT, pero igualmente se considera obsoleta en la actualidad.
+- ATX de 12 V: esta es la fuente de alimentación más común en el mercado actual. Incluye un segundo conector de la placa base para suministrar alimentación dedicada a la CPU. Existen varias versiones disponibles de ATX de 12 V.
+- EPS de 12 V: esta fuente de alimentación se diseñó originalmente para servidores de red, pero en la actualidad se utiliza comúnmente en modelos de escritorio de alta gama.
+
+## Conectores "de la fuente de poder"
+
+```
+Una fuente de poder tiene varios conectores distinto,
+los diferente conectores sirven para darle alimentacion a los componente como la placa madre y unidades de disco.
+
+los conectores estan ENCHAVETADOS lo que significa que va en un solo lugar y una sola orientación
+
+```
+
+### tipos de conectores y para que son:
+
+- Conector con ranuras para 20 o 24 pines
+  - Se conecta para la placa madre
+  - El conector de 24 tiene dos fila de 12 pines
+  - El conector de 20 tiene dos fila de 10 pines
+- Conector con clave SATA
+  - Se conecta a las unidades de disco
+  - El conector es mas ancho y delgado que un conector MOLEX
+- Conector con clave MOLEX
+  - Se conecta a disco duro, unidades Ópitcas u otro dispositivos
+- Conector con clave BERG
+  - Se conecta a diquete (DVD) antiguas
+  - Es mas pequeño que el MOLEX
+- Conector de fuente AUXILIAR de 4 a 8 pines
+  - El conector tiene dos filas de dos a cuatro pines
+  - Alimenta diferente areas de la placa madre
+  - El conector tienes las forma del principal pero mas pequeño
+- Conector de fuente PCle de 6 a 8 pines
+  - el conector sirve para alimentar componete internos
+  - el conector tiene dos filia de tres o cuatro pines
+
+## Voltaje de la fuentes de alimentacion
+
+```
+Los distintos conectores también proporcionan diferentes voltajes.
+Los voltajes más comunes suministrados son de 3,3voltios, 5voltios y 12voltios.
+Las fuentes de 3,3 voltios y 5 voltios se usan normalmente en circuitos digitales, mientras que las fuentes de 12 voltios se utilizan para alimentar los motores de las unidades de disco y los ventiladores.
+
+Las fuentes de alimentación también pueden ser de riel único, riel doble o rieles múltiples. Un riel es la placa de circuito impreso (PCB), incluida dentro de la fuente de alimentación, a la que se conectan los cables externos. Un riel único tiene todos los conectores conectados a la misma PCB, mientras que una PCB de rieles múltiples tiene PCB separadas para cada conector.
+
+Una PC puede tolerar leves fluctuaciones de alimentación, pero una desviación considerable puede provocar que la fuente de alimentación falle.
+```
+
+---
+
+## Placa base
+
+```
+La placa base, también conocida como placa del sistema o placa principal, es la médula del equipo.
+Como se muestra en la figura, una placa base es una placa de circuito impreso (PCB) que contiene los buses, o las rutas eléctricas, que interconectan los componentes electrónicos.
+Estos componentes se pueden soldar directamente a la placa base o se pueden agregar mediante sockets, ranuras de expansión y puertos.
+```
+
+## Componentes de la placa base
+
+Las siguientes son algunas de las conexiones en la placa base en las que pueden agregarse componentes de computación:
+
+- Unidad de procesamiento central (CPU): se considera el cerebro del equipo.
+- Memoria de acceso aleatorio (RAM): esta es una ubicación temporal para almacenar datos y aplicaciones.
+- Ranuras de expansión: brindan las ubicaciones para conectar componentes adicionales.
+- Conjunto de chips: consta de los circuitos integrados en la placa base que controlan la manera en que el hardware del sistema interactúa con la CPU y la placa base. Además, establece cuánta memoria se puede agregar a una placa base y el tipo de conectores de dicha placa.
+- Chip de sistema básico de entrada y salida (BIOS) e interfaz de firmware unificada extensible (UEFI): BIOS se utiliza para ayudar a arrancar el equipo y administrar el flujo de datos entre la unidad de disco duro, la tarjeta de video, el teclado, el mouse y otros componentes. Recientemente, BIOS se ha mejorado con UEFI. UEFI especifica una interfaz de software diferente para los servicios de arranque y tiempo de ejecución, pero aún depende de BIOS tradicional para la configuración del sistema, la prueba automática de encendido (POST) y la configuración.
+
+### Conexiones de la placa madre
+
+- SATA
+  - sata o serial advanced technology attechment (ATA) es un interfaz de unidad de disco que utiliza para conectar:
+    - Disco duros
+    - Unidades de estado solidos a la placa madre
+  - Sata admite intercambios con el sistema activo para reemplaza dispositivo sin apagar la Computadora
+- IDE
+  - Integrated drive Electronics (IDE) es un interfaz estandar antigua para conectar disco a la placa madre
+  - la interfaz IDE utiliza un conector de 40 pines y admite 2 dispositivo
+- USB interno
+  - Utiliza un conector de 19 pines para conectar los puerto USB 3 externo de la cacasa de la compu a la placa madre
+  - Los conectores de USB 1.1 y USB 2 tienen 9 pines
+
+## Conjunto de chips de la placa base
+
+En la figura se muestra cómo una placa base conecta distintos componentes.
+
+La mayoría de los conjuntos de chips corresponde a uno de los dos tipos siguientes:
+
+- Puente norte:
+  - controla el acceso de alta velocidad a la RAM y la tarjeta de video.
+  - También controla la velocidad a la que la CPU se comunica con todos los demás componentes del equipo.
+  - A veces, la tarjeta de video está integrada en el puente norte.
+- Puente sur:
+  - permite que la CPU se comunique con dispositivos de velocidad más lenta, como unidades de disco duro, puertos de bus serial universal (USB) y ranuras de expansión.
+
+## Factores de forma de la placa base
+
+El factor de forma de las placas base se refiere al tamaño y la forma de la placa. También describe la disposición física de los distintos componentes y los dispositivos en la placa base.
+
+Hubo muchas variaciones en las placas base desarrolladas a lo largo de los años. Existen tres factores de forma comunes para las placas base:
+
+- Tecnología avanzada extendida (ATX):
+  - este es el factor de forma más común de las placas base. El gabinete de ATX alberga los puertos integrados de E/S en la placa base de ATX estándar. La fuente de alimentación de la ATX se conecta a la placa base mediante un conector único de 20 pines.
+- Micro-ATX:
+  - es un factor de forma más pequeño que está diseñado para proporcionar compatibilidad con versiones anteriores de la ATX.
+  - Las placas micro-ATX a menudo utilizan el mismo conjunto de chips de puente norte y puente sur y los mismos conectores de energía que las placas de ATX de tamaño normal;
+  - por lo tanto, pueden utilizar muchos de los mismos componentes. Generalmente, las placas micro-ATX pueden admitir los gabinetes de ATX estándar. Sin embargo, las placas micro-ATX son mucho más pequeñas que las de la ATX y poseen menos ranuras de expansión.
+- ITX: el factor de forma ITX adquirió popularidad debido a que es muy pequeño.
+- Existen muchos tipos de placas base ITX; sin embargo, la mini-ITX es una de las más populares.
+- El factor de forma mini-ITX utiliza muy poca potencia, por lo que no se necesitan ventiladores para mantenerlo refrigerado.
+- Las placas base mini-ITX solo tienen una ranura PCI para las tarjetas de expansión. Una PC basada en un factor de forma mini-ITX se puede usar en lugares en los que no es conveniente tener una PC de gran tamaño o en ambientes donde la PC debe hacer poco ruido.
+
+En la tabla de la figura se destacan estas y otras variaciones de los factores de forma.
+
+### FACTOR DE FORMAS:
+
+- ATX
+  - tecnologia avanzada eXtended
+  - Factor de forma mas popular
+  - 12 in x 9.6 in (30,5cm x 24,4cm)
+- Micro-ATX
+  - ocupa menos espacios que el ATX
+  - popular en las computadoras de escritorios o formato pequeño
+    - 9,6 in x 9,6 in(24,4cm x 24,4cm)
+- Mini-ITX
+  - Diseñado para dispositivo ligero como decodificadores, television
+  - 6,7 in x 6,7 in (17cm x 17cm)
+- ITX
+  - similar al Micro-ATX
+  - 8,5 in x 7,5 (21,5cm x 19,1cm)
+
+--
+
+## CPU & SISTEMA DE REFRIGERACION
+
+### ¿Qué es una CPU?
+
+La unidad de procesamiento central (CPU) es responsable de interpretar y ejecutar los comandos. Controla las instrucciones desde otro hardware del equipo, como teclado y software. La CPU interpreta las instrucciones y envía la información al monitor o realiza las tareas solicitadas.
+
+La CPU es un pequeño microchip que reside dentro de un paquete de CPU. A menudo, el paquete de CPU se conoce como CPU. Los paquetes de CPU tienen distintos factores de forma y cada estilo requiere un socket particular en la placa base, Entre los fabricantes de CPU más conocidos se incluyen Intel y AMD.
+
+El socket de la CPU es la conexión entre la placa base y el procesador. Los paquetes de procesadores y sockets de CPU modernos se basan en las siguientes arquitecturas:
+
+- Matriz de pines en cuadrícula (PGA):
+  - en la arquitectura de la PGA, los pines se encuentran en la parte inferior del paquete de procesadores, que se inserta en el socket de la CPU de la placa base mediante una fuerza de inserción cero (ZIF).
+  - La ZIF se refiere a la cantidad de fuerza que se necesita para instalar una CPU en el socket o la ranura de la placa base.
+- Interfaz de conexión a nivel físico (LGA):
+- en una arquitectura de LGA, los pines se encuentran en el socket y no en el procesador.
+
+### Sistemas de refrigeración
+
+El flujo de corriente entre los componentes electrónicos genera calor.
+Los componentes de la PC funcionan mejor cuando se los mantiene refrigerados.
+Si no se elimina el calor, es posible que el equipo funcione más lentamente.
+Si se genera mucho calor, el equipo puede bloquearse o pueden dañarse los componentes.
+Por lo tanto, es fundamental que los equipos se mantengan ventilados.
+
+Los equipos se mantienen ventilados mediante soluciones de refrigeración activas y pasivas.
+Las soluciones activas requieren alimentación; las soluciones pasivas no.
+Por lo general, las soluciones pasivas para la refrigeración implican la reducción de la velocidad a la que funciona un componente o la incorporación de receptores de calor en los chips informáticos.
+Un ventilador de gabinete se considera una refrigeración activa.
+
+--
+
+## Tipos de Memoria
+
+Un equipo puede utilizar diferentes tipos de chips de memoria, como se muestra en la figura. Sin embargo, todos los chips de memoria almacenan los datos en forma de bytes. Un byte es una agrupación de información digital y representa la información como letras, números y símbolos. Específicamente, un byte es un bloque de ocho bits almacenados como un 0 o un 1 en el chip de memoria.
+
+- Memoria de solo lectura
+
+  - Un chip de computación esencial es el chip de memoria de solo lectura (ROM). Los chips de ROM se ubican en la placa base y otras placas de circuitos y contienen instrucciones a las que la CPU puede acceder de forma directa. Las instrucciones almacenadas en la ROM incluyen instrucciones de operaciones básicas, como arrancar el equipo y cargar el sistema operativo.
+
+  - La ROM es una memoria no volátil, lo que significa que los contenidos no se borran cuando el equipo se apaga.
+
+- Memoria de acceso aleatorio
+
+  - La RAM es el área de almacenamiento de trabajo temporal de datos y programas a los que accede la CPU. Al contrario de la ROM, la RAM es una memoria volátil, lo que significa que el contenido se borra cuando el equipo se apaga.
+
+  - Agregar más RAM en un equipo mejora el rendimiento del sistema. Por ejemplo, más RAM aumenta la capacidad de memoria del equipo para mantener y procesar programas y archivos. Con menos RAM, un equipo debe intercambiar datos entre la RAM y la unidad de disco duro, que es mucho más lenta. La cantidad máxima de RAM que se puede instalar depende de la placa base.
+
+### memorias ROM
+
+- ROM
+  - Chips de memoria de solo lectura. La información se escribe en el chip de ROM cuando se lo fabrica. Un chip de ROM que no se puede borrar ni sobrescribir ya es obsoleto. El término ROM aún tiende a utilizarse genéricamente para cualquier tipo de chip de memoria de solo lectura.
+- PROM
+  - Chips de memoria de solo lectura. La información se escribe en el chip de ROM cuando se lo fabrica. Un chip de ROM que no se puede borrar ni sobrescribir ya es obsoleto. El término ROM aún tiende a utilizarse genéricamente para cualquier tipo de chip de memoria de solo lectura.
+- EPRON
+  - La memoria programable borrable de solo lectura no es volátil, pero se puede borrar si se la expone a una fuerte luz ultravioleta. Las EPROM suelen tener una ventana transparente de cuarzo en la parte superior del chip. El borrado y la reprogramación constantes podrían dejar inutilizable el chip.
+- EEPRON
+  - La información de los chips de memoria programable de solo lectura y borrado eléctrico se escribe después de que se fabrican y sin quitarlos del dispositivo. Los chips de EEPROM también se denominan "ROM flash", ya que su contenido se puede eliminar con el método flash. Las EEPROM se utilizan a menudo para almacenar el BIOS del sistema informático.
+
+### memoria RAM
+
+- RAM DINAMICA
+  - Tecnología más antigua, popular hasta mediados de los 90
+  - Se utilizaba para la memoria principal
+  - La DRAM descarga gradualmente energía, por lo que debe cargarse constantemente con pulsos de electricidad para mantener almacenados los datos en el chip
+- RAM ESTATICA
+  - Requiere energía constante para funcionar
+  - Suele utilizarse para la memoria caché
+  - Consume menos energía
+  - Mucho más rápida que la DRAM
+  - Más cara que la DRAM
+- SDRAM (RAM DINAMICA SINCRONICA)
+  - DRAM que funciona sincronizada con el bus de memoria
+  - Capacidad para procesar instrucciones superpuestas en paralelo: por ejemplo, puede procesar una lectura antes de que se haya completado una escritura
+  - Mayor velocidad de transferencia
+- DDR SDRAM (RAM dinámica sincrónica de doble velocidad de datos)
+  - La SDRAM DDR transfiere los datos al doble de velocidad que la SDRAM
+  - Capacidad para admitir dos escrituras y dos lecturas por ciclo de reloj de la CPU
+  - El conector tiene 184 pines y una sola muesca
+  - Utiliza voltaje inferior estándar (2,5 V)
+  - Familia: DDR2, DDR3 y DDR4
+- DDR2 SDRAM (RAM dinámica sincrónica DDR2)
+  - La SDRAM DDR2 también transfiere datos al doble de velocidad que la SDRAM
+  - Funciona a mayor velocidad que la DDR (553 MHz vs. 200 MHz).
+  - Mejora el rendimiento al reducir el ruido y la diafonía entre los cables de señales
+  - El conector tiene 240 pines
+  - Utiliza voltaje inferior estándar (1,8 V)
+- DDR3 SDRAM (RAM dinámica sincrónica DDR3)
+  - La SDRAM DDR3 expande el ancho de banda de memoria al duplicar la frecuencia de reloj de la DDR2
+  - Consume menos energía que la DDR2 (1,5 V)
+  - Genera menos calor
+  - Funciona a velocidades superiores (hasta 800 MHz)
+  - El conector tiene 240 pines
+- DDR4 SDRAM (RAM dinámica sincrónica DDR4)
+  - La capacidad de almacenamiento máxima de la SDRAM DDR4 es el cuádruple de la de la SDRAM DDR3
+  - Consume menos energía que la DDR3 (1,2 V)
+  - Funciona a velocidades superiores (hasta 1600 MHz)
+  - El conector tiene 288 pines
+  - Disponible con funciones avanzadas de corrección de errores, como la memoria de código de corrección de errores (memoria ECC) para detectar errores de bits múltiples.
+- RAM DINAMICA SINCRONICA GDDR
+  - La "G" es por Gráficos
+  - RAM diseñada específicamente para gráficos de video
+  - Se utiliza junto con una GPU exclusiva
+  - Familia: GDDR, GDDR2, GDDR3, GDDR4 y GDDR5
+  - Cada miembro de la familia mejora el rendimiento
+  - Cada miembro de la familia disminuye el consumo de energía
+  - La SDRAM GDDR procesa grandes cantidades de datos, pero no necesariamente a las velocidades más rápidas
+
+### MODULOS DE MEMORIA
+
+- DIP
+  - El paquete doble en línea es un chip de memoria individual.
+  - El DIP tiene filas dobles de pines que se usan para fijarlo a la placa madre.
+- SIMM
+  - El módulo de memoria en línea simple es una pequeña placa de circuitos que contiene varios chips de memoria.
+  - Los SIMM tienen configuraciones de 30 pines o 72 pines.
+- MEMORIA DIMM
+  - El módulo de memoria de dos línea es una placa de circuitos que contiene chips de SDRAM, SDRAM DDR, SDRAM DDR2, SDRAM DDR3 y SDRAM DDR4. Existen DIMM de SDRAM de 168 pines, DIMM de DDR de 184 pines, DIMMM de DDR2 y DDR3 de 240 pines, y DIMM de DDR4 de 288 pines.
+- SODIMM
+  - El DIMM compacto tiene configuraciones de 72 y 100 pines, a fin de admitir transferencias de 32 bits, y configuraciones de 144, 200, 204 y 260 pines para admitir transferencias de 64 bits. Esta versión más pequeña y condensada de los módulos DIMM proporciona un almacenamiento de datos de acceso aleatorio que es ideal para usar en computadoras portátiles, impresoras y otros dispositivos en los que se desea ahorrar espacio.
+
+---
+
+## Tarjeta Adaptadoras
+
+Las tarjetas adaptadoras aumentan la funcionalidad de una PC mediante la adición de controladores para dispositivos específicos o el reemplazo de los puertos que no funcionan correctamente.
+
+Existen varias tarjetas adaptadoras disponibles que se suelen utilizar para expandir y personalizar la funcionalidad de un equipo:
+
+- Adaptador de sonido:
+  - los adaptadores de sonido proporcionan la funcionalidad de audio.
+- Tarjeta de interfaz de red (NIC):
+  - conecta un equipo a una red mediante un cable de red.
+- NIC inalámbrica:
+  - conecta un equipo a una red mediante radiofrecuencias.
+- Adaptador de video:
+  - los adaptadores de video proporcionan funcionalidad de video.
+- Tarjeta de captura:
+  - las tarjetas de captura envían una señal de video a un equipo para que se pueda grabar en la unidad de almacenamiento con un software de captura de video.
+- Tarjeta sintonizadora de TV:
+  - proporciona la capacidad de mirar y grabar señales de televisión en un equipo conectando una televisión de cable, un satélite o una antena a la tarjeta sintonizadora instalada.
+- Tarjeta controladora de bus serial universal (USB):
+  - proporciona puertos USB adicionales para conectar el equipo a los dispositivos periféricos.
+- Tarjeta eSATA:
+  - agrega puertos SATA internos y externos adicionales a un equipo a través de una única ranura PCI exprés.
+
+```
+Nota: Los equipos más antiguos también pueden tener un adaptador de módem, un puerto de gráficos acelerado (AGP), un adaptador de interfaz de sistemas de computación pequeños (SCSI) y otros.
+
+Los equipos tienen ranuras de expansión en la placa base para instalar las tarjetas adaptadoras. El tipo de conector de la tarjeta adaptadora debe coincidir con la ranura de expansión. Consulte la Figura 2 para obtener información sobre las ranuras de expansión.
+```
+
+## Ranura de Expansion
+
+- PCI
+  - La interconexión de componentes periféricos es una ranura de expansión de 32 bits o de 64 bits. Actualmente, se encuentra en pocas computadoras. Las ranuras de expansión PCI se han vuelto casi obsoletas.
+- Mini-PCI
+  - Esta es una versión más pequeña de PCI presente en algunas computadoras portátiles. El Mini PCI tiene tres factores de forma distintos: tipo I, tipo II y tipo III.
+- PCI-X
+  - El PCI eXtended es una versión actualizada del PCI estándar. Utiliza un bus de 32 bits con un ancho de banda mayor que el bus PCI. El PCI-X puede funcionar hasta cuatro veces más rápido que el PCI. Las ranuras de expansión PCI-X se han vuelto casi obsoletas
+- PCIe
+  - PCI Express utiliza un bus serie con mayor rendimiento y muchas otras mejoras en comparación con las ranuras de expansión anteriores. PCIe tiene ranuras x1, x4, x8 y x16 que varían en longitud, desde la más corta a la más extensa, respectivamente.
+- Tarjeta de Ampliacion
+  - Se puede agregar una tarjeta riser a una computadora a fin de proporcionar ranuras de expansión adicionales para más tarjetas de expansión.
+- AGP
+  - El puerto de gráficos acelerados (AGP) era una ranura de alta velocidad para conectar una tarjeta de video AGP. Ha sido reemplazado por PCI. Algunas placas base todavía utilizan esta tecnología en la actualidad.
+
+---
+
+## Tipos de dispositivos de almacenamiento
+
+Una serie de diferentes tipos de dispositivos está disponible para el almacenamiento de datos en una PC, como se muestra en la figura.
+
+Las unidades de datos proporcionan almacenamiento no volátil de los datos, lo que significa que cuando la unidad pierde la alimentación, los datos se conservan y están disponibles la próxima vez que se enciende la unidad.
+
+Algunas unidades tienen medios fijos y otras unidades tienen medios extraíbles.
+
+Algunas ofrecen la capacidad de leer y escribir datos, mientras que otras solo permiten acceder a los datos, pero no se pueden escribir.
+
+Los dispositivos de almacenamiento de datos se pueden clasificar según los medios en los que se almacenan los datos:
+
+- magnéticos
+- como las unidades de disco duro y cintas
+- estado sólido u ópticos.

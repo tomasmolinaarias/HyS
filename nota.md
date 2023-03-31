@@ -23,56 +23,49 @@
 
 ## Seguridad Eléctrica
 
-```
-Siempre hay que estar atento a la Electricida ya que todos los dispositivo lleva corriente.
+    Siempre hay que estar atento a la Electricida ya que todos los dispositivo lleva corriente.
 
-Los dispositivos eléctricos tienen determinados requisitos de potencia.
-Por ejemplo: los adaptadores de CA se fabrican para equipos portátiles específicos.
+    Los dispositivos eléctricos tienen determinados requisitos de potencia.
+    Por ejemplo: los adaptadores de CA se fabrican para equipos portátiles específicos.
 
-Intercambiar los cables de CA con los de otro tipo de equipo portátil o dispositivo puede provocar daños en el adaptador de CA y el equipo portátil.
-----------------------------------------------------------------------------------
-El equipo eléctrico debe estar conectado a tierra.
-Si una falla provoca que las piezas metálicas del equipo se conviertan en una corriente eléctrica, la tierra proporcionará una ruta de menor resistencia para que la corriente fluya de manera inocua.
+    Intercambiar los cables de CA con los de otro tipo de equipo portátil o dispositivo puede provocar daños en el adaptador de CA y el equipo portátil.
+    ----------------------------------------------------------------------------------
+    El equipo eléctrico debe estar conectado a tierra.
+    Si una falla provoca que las piezas metálicas del equipo se conviertan en una corriente eléctrica, la tierra proporcionará una ruta de menor resistencia para que la corriente fluya de manera inocua.
 
-Generalmente, los productos informáticos se conectan a tierra mediante el enchufe de alimentación.
+    Generalmente, los productos informáticos se conectan a tierra mediante el enchufe de alimentación.
 
-Los equipos grandes, como los racks de servidores que alojan dispositivos de red, también deben estar conectados a tierra.
-```
+    Los equipos grandes, como los racks de servidores que alojan dispositivos de red, también deben estar conectados a tierra.
 
 ---
 
 ## ESD
 
-```
-Las descargas electrostáticas (ESD) pueden ocurrir cuando hay una acumulación de una carga eléctrica (electricidad estática) existente en una superficie que entra en contacto con otra cargada de diferente manera.
+    Las descargas electrostáticas (ESD) pueden ocurrir cuando hay una acumulación de una carga eléctrica (electricidad estática) existente en una superficie que entra en contacto con otra cargada de diferente manera.
 
-La ESD puede provocar daños a los equipos de computación si no se descarga correctamente.
+    La ESD puede provocar daños a los equipos de computación si no se descarga correctamente.
 
-Para que podamos sentir debemos por lo minimo 3000v de Electricidad Estática, si la descarga provoca dolor o hace ruido, es probable que sea superior a los 10.000V.
-para que el ESD haga daño a los componente de pc debe ser con menos 30v.
+    Para que podamos sentir debemos por lo minimo 3000v de Electricidad Estática, si la descarga provoca dolor o hace ruido, es probable que sea superior a los 10.000V.
+    para que el ESD haga daño a los componente de pc debe ser con menos 30v.
 
-Para evitar eso debemos conectarnos a tierra "tenemos que tocar un objeto que este conectada a la tierra "
-```
+    Para evitar eso debemos conectarnos a tierra "tenemos que tocar un objeto que este conectada a la tierra "
 
-### La ESD puede provocar daños permanentes en los componentes eléctricos.
+    La ESD puede provocar daños permanentes en los componentes eléctricos.
 
-### Siga estas recomendaciones para evitar daños por ESD:
+    Siga estas recomendaciones para evitar daños por ESD:
 
-- Conserve todos los componentes en bolsas antiestática hasta que esté listo para instalarlos.
-- Utilice alfombrillas conectadas a tierra en los bancos de trabajo.
-- Utilice alfombrillas conectadas a tierra en las áreas de trabajo.
-- Utilice pulseras antiestática cuando trabaje en el interior de una PC.
+      - Conserve todos los componentes en bolsas antiestática hasta que esté listo para instalarlos.
+      - Utilice alfombrillas conectadas a tierra en los bancos de trabajo.
+      - Utilice alfombrillas conectadas a tierra en las áreas de trabajo.
+      - Utilice pulseras antiestática cuando trabaje en el interior de una PC.
 
 ---
 
 ## Gabinetes
 
-```
-Los gabinetes se conoce como Chasis, Torre, Cubierta o Caja.
+    Los gabinetes se conoce como Chasis, Torre, Cubierta o Caja.
 
-Normal mente el gabinete esta hecho de plasticon, aluminio o acero y proporcionan la estructura para el soporte, la proteccion y la refrigeracion de los componente internos.
-
-```
+    Normal mente el gabinete esta hecho de plasticon, aluminio o acero y proporcionan la estructura para el soporte, la proteccion y la refrigeracion de los componente internos.
 
 tenemos diversas formas de gabinete:
 
@@ -104,12 +97,10 @@ tenemos diversas formas de gabinete:
 
 ## Fuentes de Alimentacion
 
-```
-La electricidad  proviene de los tomacorriente (Enchufe).
-Es la corriente alterna  "CA".
-Sin embargo todos los componentes internos de un equipo requieren alimentación de corriente continua (CC), Para obtener alimentación de CC, los equipos utilizan una fuente de alimentación.
-A fin de convertir la alimentación de CA a un voltaje inferior de alimentación de CC.
-```
+    La electricidad  proviene de los tomacorriente (Enchufe).
+    Es la corriente alterna  "CA".
+    Sin embargo todos los componentes internos de un equipo requieren alimentación de corriente continua (CC), Para obtener alimentación de CC, los equipos utilizan una fuente de alimentación.
+    A fin de convertir la alimentación de CA a un voltaje inferior de alimentación de CC.
 
 A continuación, se describen los distintos factores de forma de las fuentes de alimentación de los equipos de escritorio que han evolucionado con el tiempo:
 
@@ -120,13 +111,10 @@ A continuación, se describen los distintos factores de forma de las fuentes de 
 
 ## Conectores "de la fuente de poder"
 
-```
-Una fuente de poder tiene varios conectores distinto,
-los diferente conectores sirven para darle alimentacion a los componente como la placa madre y unidades de disco.
+    Una fuente de poder tiene varios conectores distinto,
+    los diferente conectores sirven para darle alimentacion a los componente como la placa madre y unidades de disco.
 
-los conectores estan ENCHAVETADOS lo que significa que va en un solo lugar y una sola orientación
-
-```
+    los conectores estan ENCHAVETADOS lo que significa que va en un solo lugar y una sola orientación
 
 ### tipos de conectores y para que son:
 
@@ -152,25 +140,21 @@ los conectores estan ENCHAVETADOS lo que significa que va en un solo lugar y una
 
 ## Voltaje de la fuentes de alimentacion
 
-```
-Los distintos conectores también proporcionan diferentes voltajes.
-Los voltajes más comunes suministrados son de 3,3voltios, 5voltios y 12voltios.
-Las fuentes de 3,3 voltios y 5 voltios se usan normalmente en circuitos digitales, mientras que las fuentes de 12 voltios se utilizan para alimentar los motores de las unidades de disco y los ventiladores.
+    Los distintos conectores también proporcionan diferentes voltajes.
+    Los voltajes más comunes suministrados son de 3,3voltios, 5voltios y 12voltios.
+    Las fuentes de 3,3 voltios y 5 voltios se usan normalmente en circuitos digitales, mientras que las fuentes de 12 voltios se utilizan para alimentar los motores de las unidades de disco y los ventiladores.
 
-Las fuentes de alimentación también pueden ser de riel único, riel doble o rieles múltiples. Un riel es la placa de circuito impreso (PCB), incluida dentro de la fuente de alimentación, a la que se conectan los cables externos. Un riel único tiene todos los conectores conectados a la misma PCB, mientras que una PCB de rieles múltiples tiene PCB separadas para cada conector.
+    Las fuentes de alimentación también pueden ser de riel único, riel doble o rieles múltiples. Un riel es la placa de circuito impreso (PCB), incluida dentro de la fuente de alimentación, a la que se conectan los cables externos. Un riel único tiene todos los conectores conectados a la misma PCB, mientras que una PCB de rieles múltiples tiene PCB separadas para cada conector.
 
-Una PC puede tolerar leves fluctuaciones de alimentación, pero una desviación considerable puede provocar que la fuente de alimentación falle.
-```
+    Una PC puede tolerar leves fluctuaciones de alimentación, pero una desviación considerable puede provocar que la fuente de alimentación falle.
 
 ---
 
 ## Placa base
 
-```
-La placa base, también conocida como placa del sistema o placa principal, es la médula del equipo.
-Como se muestra en la figura, una placa base es una placa de circuito impreso (PCB) que contiene los buses, o las rutas eléctricas, que interconectan los componentes electrónicos.
-Estos componentes se pueden soldar directamente a la placa base o se pueden agregar mediante sockets, ranuras de expansión y puertos.
-```
+    La placa base, también conocida como placa del sistema o placa principal, es la médula del equipo.
+    Como se muestra en la figura, una placa base es una placa de circuito impreso (PCB) que contiene los buses, o las rutas eléctricas, que interconectan los componentes electrónicos.
+    Estos componentes se pueden soldar directamente a la placa base o se pueden agregar mediante sockets, ranuras de expansión y puertos.
 
 ## Componentes de la placa base
 
@@ -390,13 +374,12 @@ Existen varias tarjetas adaptadoras disponibles que se suelen utilizar para expa
 - Tarjeta controladora de bus serial universal (USB):
   - proporciona puertos USB adicionales para conectar el equipo a los dispositivos periféricos.
 - Tarjeta eSATA:
+
   - agrega puertos SATA internos y externos adicionales a un equipo a través de una única ranura PCI exprés.
 
-```
 Nota: Los equipos más antiguos también pueden tener un adaptador de módem, un puerto de gráficos acelerado (AGP), un adaptador de interfaz de sistemas de computación pequeños (SCSI) y otros.
 
-Los equipos tienen ranuras de expansión en la placa base para instalar las tarjetas adaptadoras. El tipo de conector de la tarjeta adaptadora debe coincidir con la ranura de expansión. Consulte la Figura 2 para obtener información sobre las ranuras de expansión.
-```
+    Los equipos tienen ranuras de expansión en la placa base para instalar las tarjetas adaptadoras. El tipo de conector de la tarjeta adaptadora debe coincidir con la ranura de expansión. Consulte la Figura 2 para obtener información sobre las ranuras de expansión.
 
 ## Ranura de Expansion
 
@@ -417,13 +400,13 @@ Los equipos tienen ranuras de expansión en la placa base para instalar las tarj
 
 ## Tipos de dispositivos de almacenamiento
 
-Una serie de diferentes tipos de dispositivos está disponible para el almacenamiento de datos en una PC, como se muestra en la figura.
+    Una serie de diferentes tipos de dispositivos está disponible para el almacenamiento de datos en una PC, como se muestra en la figura.
 
-Las unidades de datos proporcionan almacenamiento no volátil de los datos, lo que significa que cuando la unidad pierde la alimentación, los datos se conservan y están disponibles la próxima vez que se enciende la unidad.
+    Las unidades de datos proporcionan almacenamiento no volátil de los datos, lo que significa que cuando la unidad pierde la alimentación, los datos se conservan y están disponibles la próxima vez que se enciende la unidad.
 
-Algunas unidades tienen medios fijos y otras unidades tienen medios extraíbles.
+    Algunas unidades tienen medios fijos y otras unidades tienen medios extraíbles.
 
-Algunas ofrecen la capacidad de leer y escribir datos, mientras que otras solo permiten acceder a los datos, pero no se pueden escribir.
+    Algunas ofrecen la capacidad de leer y escribir datos, mientras que otras solo permiten acceder a los datos, pero no se pueden escribir.
 
 Los dispositivos de almacenamiento de datos se pueden clasificar según los medios en los que se almacenan los datos:
 
@@ -433,24 +416,24 @@ Los dispositivos de almacenamiento de datos se pueden clasificar según los medi
 
 ## Interfaces de dispositivos de almacenamiento
 
-Los dispositivos de almacenamiento interno a menudo se conectan a la placa base mediante conexiones de tecnología avanzada en serie (SATA).
-Los estándares de SATA definen la forma en que se transfieren los datos, las velocidades de transferencia y las características físicas de los cables y conectores.
+    Los dispositivos de almacenamiento interno a menudo se conectan a la placa base mediante conexiones de tecnología avanzada en serie (SATA).
+    Los estándares de SATA definen la forma en que se transfieren los datos, las velocidades de transferencia y las características físicas de los cables y conectores.
 
-Existen tres versiones principales del estándar SATA: SATA 1, SATA 2 y SATA 3.
-Los cables y los conectores son iguales, pero las velocidades de transferencia de datos son diferentes.
+    Existen tres versiones principales del estándar SATA: SATA 1, SATA 2 y SATA 3.
+    Los cables y los conectores son iguales, pero las velocidades de transferencia de datos son diferentes.
 
-- SATA 1 permite una tasa de transferencia de datos máxima de 1,5 Gb/s
-- SATA 2 puede llegar hasta 3 Gb/s
-- SATA 3 es la más rápida con velocidades de hasta 6 Gb/s.
+    - SATA 1 permite una tasa de transferencia de datos máxima de 1,5 Gb/s
+    - SATA 2 puede llegar hasta 3 Gb/s
+    - SATA 3 es la más rápida con velocidades de hasta 6 Gb/s.
 
-Nota: Los métodos de conexión de unidades internas heredadas incluyen los estándares de ATA paralela conocidos como electrónica integrada de la unidad (IDE), interfaz electrónica integrada de la unidad (EIDE) y ATA paralela.
+    Nota: Los métodos de conexión de unidades internas heredadas incluyen los estándares de ATA paralela conocidos como electrónica integrada de la unidad (IDE), interfaz electrónica integrada de la unidad (EIDE) y ATA paralela.
 
-La interfaz de sistemas de computación pequeños (SCSI) es otra interfaz entre las placas base y los dispositivos de almacenamiento de datos. Es un estándar más antiguo que originalmente utilizaba la transferencia de datos en paralelo en lugar de la transferencia serial. Se ha desarrollado una nueva versión de la SCSI conocida como SCSI conectada en serie (SAS). La SAS es una interfaz popular que se utiliza para el almacenamiento en servidores.
-externo:
+    La interfaz de sistemas de computación pequeños (SCSI) es otra interfaz entre las placas base y los dispositivos de almacenamiento de datos. Es un estándar más antiguo que originalmente utilizaba la transferencia de datos en paralelo en lugar de la transferencia serial. Se ha desarrollado una nueva versión de la SCSI conocida como SCSI conectada en serie (SAS). La SAS es una interfaz popular que se utiliza para el almacenamiento en servidores.
+    externo:
 
-- Paralelo (PATA):
-  - IDE (8,3 mb/s)
-  - EIDE (16,6 mn/s)
+    - Paralelo (PATA):
+      - IDE (8,3 mb/s)
+      - EIDE (16,6 mn/s)
 
 ## Almacenamiento de medios magnéticos
 
@@ -481,14 +464,14 @@ Los siguientes son tipos comunes de unidades de almacenamiento de medios magnét
 
 ## Tipos de dispositivos de almacenamiento óptico
 
-Las unidades ópticas son tipos de dispositivos de almacenamiento de medios extraíbles que utilizan láser para leer y escribir datos en medios ópticos.
-Se desarrollaron para superar las limitaciones de la capacidad de almacenamiento de los medios magnéticos extraíbles, como los discos flexibles y los cartuchos de almacenamiento magnético.
+    Las unidades ópticas son tipos de dispositivos de almacenamiento de medios extraíbles que utilizan láser para leer y escribir datos en medios ópticos.
+    Se desarrollaron para superar las limitaciones de la capacidad de almacenamiento de los medios magnéticos extraíbles, como los discos flexibles y los cartuchos de almacenamiento magnético.
 
-- Disco compacto (CD): audio y datos.
-- Disco versátil digital (DVD): video y datos digitales.
-- Disco Blu-Ray (BD): video y datos digitales de alta definición.
+    - Disco compacto (CD): audio y datos.
+    - Disco versátil digital (DVD): video y datos digitales.
+    - Disco Blu-Ray (BD): video y datos digitales de alta definición.
 
-Los CD, DVD y BD pueden estar pregrabados (solo lectura), pueden ser grabables (una sola escritura) o regrabables (se graban y escriben varias veces). Los medios de DVD y BD también pueden ser de capa simple (SL) o capa doble (DL). Los medios de capa doble duplican la capacidad de un solo disco.
+    Los CD, DVD y BD pueden estar pregrabados (solo lectura), pueden ser grabables (una sola escritura) o regrabables (se graban y escriben varias veces). Los medios de DVD y BD también pueden ser de capa simple (SL) o capa doble (DL). Los medios de capa doble duplican la capacidad de un solo disco.
 
 - CD-ROM
   - Medio de CD de memoria de solo lectura que viene pregrabado.
@@ -525,7 +508,8 @@ Los CD, DVD y BD pueden estar pregrabados (solo lectura), pueden ser grabables (
 
 ## PUERTOS Y CABLES DE VIDEO
 
-    Un puerto de video conecta un cable del monitor a la computadora. Los puertos de video y los cables de monitor transfieren señales analógicas, señales digitales o ambas. Las PC son dispositivos digitales que producen señales digitales. Las señales digitales se envían a la tarjeta gráfica y, de allí, se tra
+    Un puerto de video conecta un cable del monitor a la computadora. Los puertos de video y los cables de monitor transfieren señales analógicas, señales digitales o ambas. Las PC son dispositivos digitales que producen señales digitales.
+    Las señales digitales se envían a la tarjeta gráfica y, de allí, se transmite a una pantalla a traves del cable,
 
 - DVI (INTERFAZ VISUAL DIGITAL)
   - El conector DVI normalmente es blanco y consta de hasta 24 pines (tres filas de ocho) para las señales digitales, hasta 4 pines para las señales analógicas, y un pin plano llamado barra de conexión a tierra.

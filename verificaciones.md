@@ -7,6 +7,8 @@
 4.- la pulsera eletrica sirve para trabajar dentro de los equipos
 ```
 
+---
+
 ## verificacion de gabinetes y fuente de alimentacion
 
 ```
@@ -31,6 +33,8 @@ R:Conector de alimentación PCIe de 6/8 pines
 R: AT
 
 ```
+
+---
 
 ## verificacion de Placa madre
 
@@ -69,6 +73,8 @@ R: PUENTE SUR
 
 ```
 
+---
+
 ## verificacion CPU Y REFIGERACION
 
 ```
@@ -81,6 +87,8 @@ R: FALSO
 R: Disipador Termico
 
 ```
+
+---
 
 ## Compresion Memoria
 
@@ -106,6 +114,8 @@ R: SODIMM
 
 
 ```
+
+---
 
 ## Tarjetas y adaptadores y ranura expancion
 
@@ -133,28 +143,54 @@ R: TARJETA CAPTURADORA
 
 ```
 
+---
+
 ## Disco Duro y SSD
 
-```
-1.- Esta es una versión de la ranura de expansión PCI que se utiliza en equipos portátiles.
+- Producto Optico (Utiliza luz laser para grabar y leer datos)
+  - cd
+  - blu-ray
+  - dvd
+- Magnetico (registra los bits como zonas magnetizadas en medios magneticos)
+  - HDD
+  - Unidad De Cinta
+- Estado Solido (Utiliza chips de Memoria no Volatil para almacenar Datos)
+  - Unidad de memoria flash
+  - SSD de 2.5
 
-R: MINI-PCI
+---
 
-2.- Esta ranura de expansión tiene ranuras x1, x4, x8 y x16
+## tipos de medio Optico
 
-R: PCIE
+- CD
+  - ROM
+    - Audio, Software o Datos pregrabados
+      - 700MB
+  - R
+    - Una sola Escritura
+      - 700MB
+  - RW
+    - Varias Escritura
+      - 700MB
+- DVD
+  - ROM
+    - Audio, Software o Datos pregrabados
+      - 4,7GB CAPA SIMPLE Y 8,5 GB CAPA DOBLE
+  - +/-R
+    - Una sola Escritura
+      - 4,7GB CAPA SIMPLE Y 8,5 GB CAPA DOBLE
+  - +/-RW
+    - Varias Escritura
+      - 4,7GB CAPA SIMPLE Y 8,5 GB CAPA DOBLE
+- DB
+  - ROM
+    - Video HD,Software o Datos pregrabados
+      - 25 GB CAPA SIMPLE Y 50 GB CAPA DOBLE
+  - -R
+    - Una sola Escritura
+      - 25 GB CAPA SIMPLE Y 50 GB CAPA DOBLE
+  - -RE
+    - Varias Escritura
+      - 25 GB CAPA SIMPLE Y 50 GB CAPA DOBLE
 
-3.- Esta ranura de expansión de equipos portátiles tiene los factores de forma de tipo I, tipo II y tipo III.
-
-R: MINI-PCI
-
-4.- Esta es una tarjeta que agrega ranuras de expansión adicionales a un equipo.
-
-R: RISER
-
-5.- Este adaptador envía una señal de video a un equipo para que se pueda grabar la señal.
-
-R: TARJETA CAPTURADORA
-
-
-```
+---

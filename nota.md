@@ -430,3 +430,165 @@ Los dispositivos de almacenamiento de datos se pueden clasificar según los medi
 - magnéticos
 - como las unidades de disco duro y cintas
 - estado sólido u ópticos.
+
+## Interfaces de dispositivos de almacenamiento
+
+Los dispositivos de almacenamiento interno a menudo se conectan a la placa base mediante conexiones de tecnología avanzada en serie (SATA).
+Los estándares de SATA definen la forma en que se transfieren los datos, las velocidades de transferencia y las características físicas de los cables y conectores.
+
+Existen tres versiones principales del estándar SATA: SATA 1, SATA 2 y SATA 3.
+Los cables y los conectores son iguales, pero las velocidades de transferencia de datos son diferentes.
+
+- SATA 1 permite una tasa de transferencia de datos máxima de 1,5 Gb/s
+- SATA 2 puede llegar hasta 3 Gb/s
+- SATA 3 es la más rápida con velocidades de hasta 6 Gb/s.
+
+Nota: Los métodos de conexión de unidades internas heredadas incluyen los estándares de ATA paralela conocidos como electrónica integrada de la unidad (IDE), interfaz electrónica integrada de la unidad (EIDE) y ATA paralela.
+
+La interfaz de sistemas de computación pequeños (SCSI) es otra interfaz entre las placas base y los dispositivos de almacenamiento de datos. Es un estándar más antiguo que originalmente utilizaba la transferencia de datos en paralelo en lugar de la transferencia serial. Se ha desarrollado una nueva versión de la SCSI conocida como SCSI conectada en serie (SAS). La SAS es una interfaz popular que se utiliza para el almacenamiento en servidores.
+externo:
+
+- Paralelo (PATA):
+  - IDE (8,3 mb/s)
+  - EIDE (16,6 mn/s)
+
+## Almacenamiento de medios magnéticos
+
+Un tipo de almacenamiento representa los valores binarios como áreas físicas magnetizadas o no magnetizadas de medios magnéticos.
+Los sistemas mecánicos se utilizan para ubicar y leer los medios.
+Los siguientes son tipos comunes de unidades de almacenamiento de medios magnéticos:
+
+- Unidad de disco duro (HDD):
+  - las HDD son dispositivos de discos magnéticos tradicionales que se han utilizado durante años.
+  - Su capacidad de almacenamiento va de gigabytes (GB) a terabytes (TB).
+  - Su velocidad se mide en revoluciones por minuto (RPM).
+  - Esta es la velocidad a la que el eje hace girar los platos que contienen los datos. Cuanto más rápido gira el eje, más rápido recupera el disco duro los datos almacenados en los platos.
+  - Esto puede corresponder a velocidades de transferencia más rápidas.
+  - Las velocidades comunes de ejes de disco duro son: 5400, 7200, 10 000 y 15 000 RPM. Las HDD vienen en factores de forma de 1,8; 2,5 y 3,5 pulgadas
+    - El factor de forma de 3,5 pulgadas es estándar para los equipos personales.
+    - Las HDD de 2,5 pulgadas suelen utilizarse en dispositivos móviles.
+    - Las HDD de 1,8 pulgadas se utilizaban en los reproductores de medios portátiles y otras aplicaciones móviles, pero rara vez se utilizan en nuevos dispositivos.
+- Unidad de cintas:
+  - las cintas magnéticas se utilizan con mayor frecuencia para archivar datos.
+  - Al mismo tiempo, eran útiles para realizar copias de seguridad de las PC;
+  - no obstante, dado que las HDD se tornaron más baratas, las unidades de disco duro externas ahora se utilizan con frecuencia para este propósito.
+  - Sin embargo, las copias de seguridad en cinta aún se utilizan en las redes empresariales.
+  - Las unidades de cintas utilizan un cabezal de lectura/escritura magnética y un cartucho de cinta extraíble
+  - Si bien la recuperación de datos mediante una unidad de cintas puede ser rápida, la ubicación de datos específicos es lenta, ya que la cinta se debe enrollar en un carrete hasta que se encuentren los datos.
+  - Las capacidades de almacenamiento comunes de las cintas van desde algunos GB hasta muchos TB.
+
+---
+
+## Tipos de dispositivos de almacenamiento óptico
+
+Las unidades ópticas son tipos de dispositivos de almacenamiento de medios extraíbles que utilizan láser para leer y escribir datos en medios ópticos.
+Se desarrollaron para superar las limitaciones de la capacidad de almacenamiento de los medios magnéticos extraíbles, como los discos flexibles y los cartuchos de almacenamiento magnético.
+
+- Disco compacto (CD): audio y datos.
+- Disco versátil digital (DVD): video y datos digitales.
+- Disco Blu-Ray (BD): video y datos digitales de alta definición.
+
+Los CD, DVD y BD pueden estar pregrabados (solo lectura), pueden ser grabables (una sola escritura) o regrabables (se graban y escriben varias veces). Los medios de DVD y BD también pueden ser de capa simple (SL) o capa doble (DL). Los medios de capa doble duplican la capacidad de un solo disco.
+
+- CD-ROM
+  - Medio de CD de memoria de solo lectura que viene pregrabado.
+    - 700MB
+- CD-R
+  - Medio de CD grabable que se puede grabar una vez.
+    - 700MB
+- CD-RW
+  - Medio de CD regrabable que se puede grabar, borrar y volver a grabar.
+    - 700MB
+- DVD-ROM
+  - Medio de DVD de memoria de solo lectura que viene pregrabado.
+    - 4,7GB CAPA SIMPLE Y 8,5 GB CAPA DOBLE
+- DVD-RAM
+  - Medio de DVD regrabable que se puede grabar, borrar y volver a grabar.
+    - 4,7GB CAPA SIMPLE Y 8,5 GB CAPA DOBLE
+- DVD+/-R
+  - Medio de DVD grabable que se puede grabar una vez.
+    - 4,7GB CAPA SIMPLE Y 8,5 GB CAPA DOBLE
+- DVD+/-RW
+  - Medio de DVD regrabable que se puede grabar, borrar y volver a grabar.
+    - 4,7GB CAPA SIMPLE Y 8,5 GB CAPA DOBLE
+- BD-ROM
+  - Medio de Blu-ray de memoria de solo lectura en el que se graban previamente películas, juegos o software.
+    - 25 GB CAPA SIMPLE Y 50 GB CAPA DOBLE
+- BD-R
+  - Medio de Blu-ray grabable que se puede grabar una vez.
+    - 25 GB CAPA SIMPLE Y 50 GB CAPA DOBLE
+- BD-RE
+  - Medio de Blu-ray regrabable que se puede grabar, borrar y volver a grabar.
+    - 25 GB CAPA SIMPLE Y 50 GB CAPA DOBLE
+
+---
+
+## PUERTOS Y CABLES DE VIDEO
+
+    Un puerto de video conecta un cable del monitor a la computadora. Los puertos de video y los cables de monitor transfieren señales analógicas, señales digitales o ambas. Las PC son dispositivos digitales que producen señales digitales. Las señales digitales se envían a la tarjeta gráfica y, de allí, se tra
+
+- DVI (INTERFAZ VISUAL DIGITAL)
+  - El conector DVI normalmente es blanco y consta de hasta 24 pines (tres filas de ocho) para las señales digitales, hasta 4 pines para las señales analógicas, y un pin plano llamado barra de conexión a tierra.
+- DISPLAYPORT
+  - DisplayPort es una tecnología de interfaz diseñada para conectar PC y pantallas de alta gama gráfica, equipos de home theater y pantallas.
+- HDMI (INTERFAZ MULTIMEDIA DE ALTA DEFINICION)
+  - HDMI se desarrolló específicamente para los televisores de alta definición. Sin embargo, sus funciones digitales también lo convierten en un buen candidato para las computadoras.
+- THUNDERBOLT 1 O 2
+  - Thunderbolt permite la conexión de alta velocidad de periféricos, como discos duros, matrices RAID e interfaces de red, y puede transmitir video de alta definición con el protocolo DisplayPort.
+- THUNDERBOLT 3
+  - Thunderbolt 3 utiliza el mismo conector que USB-C. Tiene el doble de ancho de banda que Thunderbolt 2, utiliza menos energía y puede proporcionar video a dos monitores 4K.
+- VGA (MATRIZ DE GRAFICOS DE VIDEO)
+  - Es un conector para video analógico. Tiene 3 filas y 15 pines. También se conoce como conector DE-15 o HD-15.
+- RCA (RADIO CORPORATION OF AMERICA)
+  - Los conectores RCA cuentan con un conector central que tiene un aro a su alrededor y se utilizan para transmitir audio o video. Los conectores RCA a menudo se encuentran en grupos de tres, donde el conector amarillo transmite video y un par de conectores rojo y blanco transmite los canales derecho e izquierdo de audio.
+
+---
+
+## Otros puerto y cables
+
+    Los puertos de entrada/salida (E/S) de una computadora conectan dispositivos periféricos, como impresoras, escáneres y unidades portátiles. Además de los puertos y las interfaces que analizamos anteriormente, una computadora también puede tener otros puertos.
+
+- PS/2
+  - Los puertos PS/2 conectan un teclado o un mouse a una computadora. El puerto PS/2 tiene un conector mini-DIN hembra de 6 pines. Los conectores para el teclado y el mouse a menudo son de colores diferentes. Si los puertos no están codificados por colores, busque una pequeña figura de un mouse o un teclado junto a cada puerto.
+- Puerto de audio y juegos
+  - Los puertos de audio conectan dispositivos de audio a la computadora. Los puertos analógicos suelen incluir una línea en el puerto para conectar a una fuente externa (p. ej., un sistema estéreo), un puerto de micrófono y una línea a través de puertos para conectar altavoces o auriculares. El puerto de juegos se conecta a un joystick o un dispositivo de interfaz MIDI.
+- RED
+  - Los puertos de red, que también se conocen como puertos RJ-45 o 8P8C, tienen 8 pines y conectan dispositivos a una red. La velocidad de conexión depende del tipo de puerto de red. La longitud máxima del cable de red Ethernet es de 100 m (328 pies).
+- SATA
+  - Los cables SATA conectan dispositivos SATA a la interfaz SATA mediante un cable de datos de 7 pines. Los conectores SATA tienen una ranura en forma de L, por lo que el cable solo se ajusta en una orientación. Estos cables no le suministran potencia al disco externo SATA. Un cable de alimentación independiente proporciona potencia a la unidad.
+- IDE (Electronica integrada de unidades)
+  - El cable IDE es un cable de cinta que se utiliza para conectar unidades de almacenamiento dentro de la computadora. Los dos tipos más comunes de cables de cinta IDE son el cable de 34 pines utilizado para unidades de disquete y el cable de 40 pines para discos duros y unidades ópticas.
+- USB (Bus serie universal)
+  - USB es una interfaz estándar que conecta dispositivos periféricos a una computadora. Los dispositivos USB son intercambiables con el sistema activo, lo que significa que los usuarios pueden conectarlos y desconectarlos mientras la PC está encendida.
+
+---
+
+## Adaptador y convertidor
+
+    ADAPTADOR:
+    Es un componente que conecta físicamente una tecnología con otra. Por ejemplo, un adaptador de DVI a HDMI. El adaptador puede ser un componente o un cable con diferentes extremos.
+
+    CONVERSOR:
+    Cumple la misma función que un adaptador, pero también convierte las señales de una tecnología a la otra. Por ejemplo, un USB 3.0 al convertidor SATA permite que un disco duro pueda utilizarse como una unidad de memoria flash.
+
+- ADAPTADOR DVI A VGA
+  - Este adaptador se utiliza para conectar un cable VGA a un puerto DVI.
+- Conversor USB a Ethernet
+
+  - Este conversor se utiliza para convertir USB en Ethernet.
+
+- Adaptador USB a PS/2
+
+  - Este adaptador se utiliza para conectar un teclado o mouse USB a un puerto PS/2.
+
+- Adaptador DVI a HDMI
+
+  - Este adaptador se utiliza para conectar un cable HDMI a un puerto DVI.
+
+- Adaptador Molex a SATA
+
+  - Se utiliza para conectar una unidad SATA a un cable de alimentación Molex.
+
+- Conversor HDMI a VGA
+
+  - Este conversor se utiliza para convertir señales VGA en señales HDMI.

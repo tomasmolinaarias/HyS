@@ -530,7 +530,7 @@ Los siguientes son tipos comunes de unidades de almacenamiento de medios magnét
 
 ## Otros puerto y cables
 
-    Los puertos de entrada/salida (E/S) de una computadora conectan dispositivos periféricos, como impresoras, escáneres y unidades portátiles. Además de los puertos y las interfaces que analizamos anteriormente, una computadora también puede tener otros puertos.
+      Los puertos de entrada/salida (E/S) de una computadora conectan dispositivos periféricos, como impresoras, escáneres y unidades portátiles. Además de los puertos y las interfaces que analizamos anteriormente, una computadora también puede tener otros puertos.
 
 - PS/2
   - Los puertos PS/2 conectan un teclado o un mouse a una computadora. El puerto PS/2 tiene un conector mini-DIN hembra de 6 pines. Los conectores para el teclado y el mouse a menudo son de colores diferentes. Si los puertos no están codificados por colores, busque una pequeña figura de un mouse o un teclado junto a cada puerto.
@@ -581,8 +581,8 @@ Los siguientes son tipos comunes de unidades de almacenamiento de medios magnét
 
 ## Dispositivos de entrada originales
 
-    Los dispositivos de entrada permiten que el usuario se comunique con la computadora.
-    Las imágenes a continuación corresponden a algunos de los primeros dispositivos de entrada.
+      Los dispositivos de entrada permiten que el usuario se comunique con la computadora.
+      Las imágenes a continuación corresponden a algunos de los primeros dispositivos de entrada.
 
 - TECLADO Y MOUSE
   - Estos son los dos dispositivos de entrada que más se utilizan. Los teclados suelen utilizarse para crear documentos de texto y correos electrónicos.
@@ -736,3 +736,41 @@ Los siguientes son tipos comunes de unidades de almacenamiento de medios magnét
     Los auriculares, auriculares internos y los audífonos que se encuentran en los auriculares son todos dispositivos de salida auditiva.
     Pueden ser cableados o inalámbricos.
     Algunos tienen conexión Wi-Fi o Bluetooth.
+
+# PRACTICAS DE TERMINOS Y CONCEPTO
+
+    .- mantenga todos los componentes en bolsas antiestáticas; utilice las alfombrillas conectadas a tierra en las áreas de trabajo.
+
+    R: soluciones para ayudar a evitar daños de ESD
+
+    .- la fuente de alimentación más común en el mercado. Incluye un segundo conector de la placa base para suministrar energía dedicada a la CPU.
+
+    R: ATX de 12 V
+
+    .- fuente de alimentación diseñada originalmente para servidores de red, pero en la actualidad se utiliza comúnmente en modelos de escritorio de alta gama.
+
+    R: EPS12 V
+
+    .-  una placa de circuito impreso que contiene los buses, o las rutas eléctricas, que interconectan los componentes electrónicos
+
+    R: Placa Base
+
+    .- controla el acceso de alta velocidad a la RAM y a la tarjeta de video
+
+    R: Puente Norte
+
+    .- permite la comunicación de la CPU con dispositivos de menor velocidad, como discos duros, puertos USB y ranuras de expansión.
+
+    R: Puente Sur
+
+    .- chip de memoria no volátil que puede borrarse si se lo expone a una luz fuerte de ultravioleta.
+
+    R: EPRON
+
+    .- chip de memoria de solo lectura fabricado en blanco y que se puede programar cuando sea necesario
+
+    R: PROM
+
+    .- caché interna que se integra en la CPU
+
+    R: L1
